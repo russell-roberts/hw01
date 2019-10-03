@@ -12,8 +12,8 @@ My name is Rusty! I was born in Cleveland, Ohio, the *best* city in the world! Y
 * Popcorn
 
 **TV Shows**
-*Star Trek
-*The Wire
+* Star Trek
+* The Wire
 
 ### Links!
 
